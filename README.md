@@ -24,7 +24,7 @@ This project demonstrates customer segmentation for an e-commerce company using 
 
 ## Business Problem
 
-The e-commerce company wants to segment its customers in order to design marketing strategies for different customer types.
+An e-commerce company aims to segment its customers and develop marketing strategies tailored to each segment. The dataset "https://archive.ics.uci.edu/dataset/502/online+retail+ii " contains sales data from an online retail store based in the UK, covering the period from 01/12/2009 to 09/12/2011. Dataset: Online Retail II
 
 ### Variables in the dataset:
 
